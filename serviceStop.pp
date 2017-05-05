@@ -1,0 +1,2 @@
+service {'firewalld':
+ensure => false,}
